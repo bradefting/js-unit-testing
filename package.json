@@ -1,0 +1,23 @@
+{
+  "name": "js-unit-testing",
+  "version": "1.0.0",
+  "description": "##Directory Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradefting/js-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradefting/js-unit-testing/issues"
+  },
+  "homepage": "https://github.com/bradefting/js-unit-testing#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
